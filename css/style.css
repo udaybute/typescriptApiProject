@@ -1,0 +1,18 @@
+.main_container {
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+}
+
+.main_container .card {
+    padding: 10px;
+}
+body{
+    background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+}
+.search-input{
+   margin: auto;
+   padding: 5px;
+}
